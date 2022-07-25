@@ -2,6 +2,9 @@
   "name": "crm",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v16.16.0"
+  },
   "dependencies": {
     "@auth0/auth0-react": "^1.10.2",
     "@coreui/coreui": "^4.1.6",
